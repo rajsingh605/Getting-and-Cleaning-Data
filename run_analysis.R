@@ -2,7 +2,8 @@
 
 ##Set your Working Directory.
 ##Once we have set the working directory, place the download UCI HAR Dataset into the working directory.
-##Following Code is used to read the X_test, X_train, y_test, y_train, activities_label, features dataset into R.
+##Following Code is used to read the X_test, X_train, y_test, y_train, activities_label, features, subject_test,
+##subject train dataset into R from the given UCI HAR Dataset
 
 X_test <- read.table("./UCI HAR Dataset/test/X_test.txt", quote="\"", stringsAsFactors=FALSE)
 X_train <- read.table("./UCI HAR Dataset/train/X_train.txt", quote="\"", stringsAsFactors=FALSE)
