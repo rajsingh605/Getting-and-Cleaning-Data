@@ -59,7 +59,7 @@ Then, I removed all the temporary datasets.
 
 tidy_data is a dataset containing 180 rows and 68 columns extracted from untidy, messy data X_train, X_test, Y_test, Y_train, activites_label, features, subject_test, subject_train datasets.
 
-##Variables of The *TidyDataset* are:-
+##Variables of The *Tidy_Data* dataset are:-
 
 1. "SUBJECT" - "Number of the subject on which the experiments were carried out".
 2. "ACTIVITY" - "The activity which the volunteer was performing"
