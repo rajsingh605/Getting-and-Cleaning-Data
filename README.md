@@ -1,3 +1,5 @@
+R Version 3.1.2
+Packages Required : plyr
 
 HOW THE RUN_ANALYSIS.R SCRIPT WORKS
 
